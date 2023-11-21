@@ -1,8 +1,10 @@
+
+<!--
 ### Bom dia! Sou a pampam
 <div align="center">
   <img src="https://user-images.githubusercontent.com/91758665/160262175-88008d72-85c4-49a7-8aee-ad97d8e5763a.png" width="800" />
  </div>
-
+-->
 <div align="center">
   <a href="https://github.com/p4mpam">
   <img height="170em" width="400" src="https://github-readme-stats.vercel.app/api?username=p4mpam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
