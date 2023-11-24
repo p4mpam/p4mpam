@@ -1,7 +1,7 @@
 
 ### Hello Everyone! Sou a Pamela, mas pode me chamar de pampam
 <div align="center">
-  <img src="(https://user-images.githubusercontent.com/91758665/285532269-7a370220-704b-459b-abdb-cf5001ba2fdb.jpg)" width="800" />
+  <img src="(https://user-images.githubusercontent.com/91758665/285533256-225974b2-3de2-41d9-a679-f679429a4047.jpg)" width="800" />
  </div>
 
 <div align="center">
