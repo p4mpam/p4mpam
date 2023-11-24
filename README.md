@@ -1,5 +1,10 @@
 
-### Hello Everyone! Sou a Pamela, mas pode me chamar de pampam
+### Hello everyone. How are you? Fine, thank you!
+
+Me chamo Pamela Eduarda, sou estudante de ciências sociais apaixonada por tecnologia.
+
+- 🐱‍🚀 ex integrante da equipe de robótica destemidos
+- 🐱‍👓 aqui você vai encontrar meus estudos, esteja eles completos ou incompletos
 
 ```python
 #!/usr/bin/python
@@ -28,8 +33,15 @@ me.say_hi()
 <div align="center">
   <a href="https://github.com/p4mpam">
   <img height="170em" width="400" src="https://github-readme-stats.vercel.app/api?username=p4mpam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="100em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p4mpam&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p4mpam&layout=compact&langs_count=7&theme=dracula"/>
  </div>
+
+**Programming Languages:**
+
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=eb389d)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=eb389d)
+![Dart](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=eb389d)
+![Ruby](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=eb389d)
 
 ![Snake animation](https://github.com/p4mpam/p4mpam/blob/output/github-contribution-grid-snake.svg)
   
