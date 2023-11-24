@@ -1,9 +1,30 @@
 
 ### Hello Everyone! Sou a Pamela, mas pode me chamar de pampam
-<div align="center">
-  <img src="(https://user-images.githubusercontent.com/91758665/285533256-225974b2-3de2-41d9-a679-f679429a4047.jpg)" width="800" />
- </div>
 
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class AboutMe:
+
+    def __init__(self):
+        self.name = "Pamela Eduarda"
+        self.pronuns = "she/her"
+        self.college = "Social Science"
+        self.from = "Paraíba-BR"
+        self.studying = ["Software Engineer", "Data Science", "Front-end", "Web Development"]
+        self.language_spoken = "pt-br"
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = Student()
+me.say_hi()
+```
+
+-->
 <div align="center">
   <a href="https://github.com/p4mpam">
   <img height="170em" width="400" src="https://github-readme-stats.vercel.app/api?username=p4mpam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
