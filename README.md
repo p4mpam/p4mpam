@@ -1,7 +1,7 @@
 
 ### Hello everyone. How are you? Fine, thank you!
 
-Me chamo Pamela Eduarda, sou estudante de ciências sociais apaixonada por tecnologia.
+Me chamo Pamela Eduarda, sou estudante de ciências sociais amante de tecnologia.
 
 - 🐱‍🚀 ex integrante da equipe de robótica destemidos
 - 🐱‍👓 aqui você vai encontrar meus estudos, esteja eles completos ou incompletos
